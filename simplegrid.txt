@@ -1,0 +1,11 @@
+integer nxg,nyg,nzg
+
+parameter(nxg=128,nyg=128,nzg=128)
+
+real*8 xface(nxg+1),yface(nyg+1),zface(nzg+1)
+real*8 rhokap(nxg,nyg,nzg)
+real*8 jmean(nxg,nyg,nzg)
+real*8 nfrac(nxg,nyg,nzg)
+real*8 ntot(nxg,nyg,nzg)
+real*8 tem(nxg,nyg,nzg)
+real*8 pres(nxg,nyg,nzg)

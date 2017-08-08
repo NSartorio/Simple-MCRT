@@ -1,0 +1,17 @@
+ $params
+  nphotons=100000,
+  niter=10,
+  nsource=1,
+  tema=500,
+  temb=8000,
+  iseed=76865,
+  pionize=0.38
+  xmax=5,
+  ymax=5,
+  zmax=5,
+  Q49=4.26,
+  length=3.086e18,
+  unitdens=3.1d3,
+  sigd=6.3d-18,
+  alphaa=5.25e-13/
+ $
